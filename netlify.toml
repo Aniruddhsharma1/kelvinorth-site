@@ -1,0 +1,37 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/pricing"
+  to = "/#pricing"
+  status = 301
+
+[[redirects]]
+  from = "/qualified-meeting"
+  to = "/#criteria"
+  status = 301
+
+[[redirects]]
+  from = "/signal-sprint"
+  to = "/#services"
+  status = 301
+
+[[redirects]]
+  from = "/meeting-engine"
+  to = "/#services"
+  status = 301
+
+[[redirects]]
+  from = "/faq"
+  to = "/#faq"
+  status = 301
+
+[[redirects]]
+  from = "/about"
+  to = "/#about"
+  status = 301
+
+[[redirects]]
+  from = "/contact"
+  to = "/#teardown"
+  status = 301

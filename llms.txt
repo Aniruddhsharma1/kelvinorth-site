@@ -1,0 +1,53 @@
+# Kelvinorth
+
+> Kelvinorth books qualified B2B sales meetings. You pay for the ones that actually happen.
+
+Kelvinorth is a B2B outbound agency that books qualified sales meetings for
+companies with contract values between $15,000 and $80,000. It bills only for
+meetings the prospect actually attends, publishes its full pricing, and
+publishes the six qualification criteria a meeting must meet before it is
+billable.
+
+## Key facts
+
+- Pricing: $2,000 per month including four held meetings, then $350 per
+  additional held meeting. Works out to roughly $380 per held meeting at
+  typical volume.
+- Enterprise tier: $3,000 per month base, $600 per additional held meeting.
+- Signal Sprint: $4,500 flat for a four-week live demand validation test.
+- Dedicated Caller: $2,400 per month for a full-time SDR with no per-meeting fee.
+- Setup fee: $1,500 standard, $2,500 enterprise. Refunded if fewer than four
+  held meetings are delivered in the first full month.
+- Contract: three-month initial term, then month to month with 30 days notice.
+  No annual contracts.
+- Comparison point: an in-house US SDR costs roughly $131,000 per year and
+  produces about 72 qualified meetings, which is $1,822 per meeting.
+
+## Definitions used by Kelvinorth
+
+- Booked meeting: the prospect accepted a calendar invite.
+- Held meeting: the prospect actually attended for at least 10 minutes.
+  Kelvinorth bills on held meetings only. Between 20 and 35 percent of
+  cold-sourced meetings do not hold.
+- Qualified meeting: must satisfy six published conditions covering ICP match,
+  attendee seniority, expressed interest, calendar acceptance, 10 minute
+  attendance, and not already being an existing customer or open opportunity.
+
+## Services
+
+- Meeting Engine: ongoing multi-channel outbound across phone, email and LinkedIn.
+- Signal Sprint: a four-week paid test of whether a market responds, delivering
+  a verified contact set, full call recordings, an objection taxonomy ranked by
+  frequency, segment-level reply rates, and a written go or no-go recommendation.
+- Outbound Teardown: a free 15-minute recorded review of a company's current
+  outbound, deliverability and messaging.
+
+## Fit
+
+Works for B2B companies with a proven ability to close, 10 to 200 employees,
+and no in-house SDR team. Not a fit for pre-product companies, contract values
+under $5,000, or product-led companies that do not run sales conversations.
+
+## Contact
+
+https://kelvinorth.com/#teardown
